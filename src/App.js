@@ -1,12 +1,10 @@
 import React from 'react'
+import CounterPage from './pages/CounterPage'
 
 const App = () => {
   return (
-    <div>
-      
-    </div>
+    <CounterPage/>
   )
 }
 
 export default App;
-//https://www.youtube.com/playlist?list=PLkyGuIcLcmx3enVND877-AHx7h1AytJAz
